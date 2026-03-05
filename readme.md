@@ -9,7 +9,7 @@ Following the initial deployment, a comprehensive **Vulnerability Assessment** w
 
 ## Repository Contents
 
-- **[Project Writeup & Implementation Guide](windows-server-2022-project.md)**  
+- **[Project Writeup & Implementation Guide](project-report.md)**  
   *The complete step-by-step documentation of the lab deployment, including virtual machine preparation, server setup, logical AD structure, and switch configurations.*
 
 - **[Vulnerability Assessment](vulnerability-assessment.md)**  
