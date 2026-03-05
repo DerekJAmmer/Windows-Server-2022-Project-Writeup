@@ -2,22 +2,22 @@
 # Domain Controller, DNS, DHCP, and GPO Implementation
 
 
-[Abstract	3](#abstract)
-[Background	4](#background)
-[2.1 Why Windows Server 2022 Administration Matters	4](#21--why-windows-server-2022-administration-matters)
-[2.2  Relevant Microsoft Certifications	4](#22--relevant-microsoft-certifications)
-[2.3  Career Paths and Opportunities	4](#23--career-paths-and-opportunities)
-[2.4  Key Skills Developed	5](#24--key-skills-developed)
-[Procedure	6](#procedure)
-[3.1 Virtual Machine Preparation	6](#31-virtual-machine-preparation)
-[3.2 Initial Server Setup	6](#32-initial-server-setup)
-[3.3 IP Addressing and Connectivity Check	7](#33-ip-addressing-and-connectivity-check)
-[3.4 Active Directory Domain Services Deployment	7](#34-active-directory-domain-services-deployment)
-[3.5 Cisco Switch Configuration	8](#35-cisco-switch-configuration)
-[3.6 Domain Integration and Active Directory Structure	8](#36-domain-integration-and-active-directory-structure)
-[3.7 DNS and DHCP Configuration and Verification	9](#37-dns-and-dhcp-configuration-and-verification)
-[3.8 Group Policy Implementation and Final Testing	9](#38-group-policy-implementation-and-final-testing)
-[Reflection	10](#reflection)
+- [Abstract 3](#abstract)
+- [Background 4](#background)
+  - [2.1 Why Windows Server 2022 Administration Matters 4](#21--why-windows-server-2022-administration-matters)
+  - [2.2 Relevant Microsoft Certifications 4](#22--relevant-microsoft-certifications)
+  - [2.3 Career Paths and Opportunities 4](#23--career-paths-and-opportunities)
+  - [2.4 Key Skills Developed 5](#24--key-skills-developed)
+- [Procedure 6](#procedure)
+  - [3.1 Virtual Machine Preparation 6](#31-virtual-machine-preparation)
+  - [3.2 Initial Server Setup 6](#32-initial-server-setup)
+  - [3.3 IP Addressing and Connectivity Check 7](#33-ip-addressing-and-connectivity-check)
+  - [3.4 Active Directory Domain Services Deployment 7](#34-active-directory-domain-services-deployment)
+  - [3.5 Cisco Switch Configuration 8](#35-cisco-switch-configuration)
+  - [3.6 Domain Integration and Active Directory Structure 8](#36-domain-integration-and-active-directory-structure)
+  - [3.7 DNS and DHCP Configuration and Verification 9](#37-dns-and-dhcp-configuration-and-verification)
+  - [3.8 Group Policy Implementation and Final Testing 9](#38-group-policy-implementation-and-final-testing)
+- [Reflection 10](#reflection)
 
 # Abstract
 
