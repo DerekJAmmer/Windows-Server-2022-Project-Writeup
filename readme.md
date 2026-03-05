@@ -9,10 +9,10 @@ Following the initial deployment, a comprehensive **Vulnerability Assessment** w
 
 ## Repository Contents
 
-- **[Project Writeup & Implementation Guide](project-report.md)**  
+- **[Project Writeup & Implementation Guide](Project-Report.md)**  
   *The complete step-by-step documentation of the lab deployment, including virtual machine preparation, server setup, logical AD structure, and switch configurations.*
 
-- **[Vulnerability Assessment](vulnerability-assessment.md)**  
+- **[Vulnerability Assessment](Vulnerability-Assessment.md)**  
   *A detailed security review of the deployed environment, highlighting lab-induced vulnerabilities, Tier 0 isolation risks, and actionable remediation steps for a production-ready deployment.*
 
 ## Key Technologies & Skills Demonstrated
